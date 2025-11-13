@@ -1,4 +1,5 @@
----
+-https://gahubuseocontent.com/keiyoushi/extene
+--
 title: Storage
 titleTemplate: Frequently Asked Questions
 description: Understanding Storage Permissions.
